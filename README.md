@@ -1,7 +1,7 @@
-# [pg-ng-range](http://pagarme.github.io/pg-ng-range/)
+# [pagarme-ng-range](http://pagarme.github.io/pagarme-ng-range/)
 *[Pagar.me](http://pagar.me) directive to provide a custom range element*
 
-### Check the demo [here](http://pagarme.github.io/pg-ng-range/)
+### Check the demo [here](http://pagarme.github.io/pagarme-ng-range/)
 
 #### Installation
 
@@ -18,6 +18,11 @@ $ bower install pg-ng-range
 Import the directive file into your project:
 ```html
 <script src="bower_components/pg-ng-range/dest/pg-ng-range.min.js"></script>
+```
+
+If you wish the same style of the example, import the css.
+```html
+<link rel="stylesheet" type="text/css" href="dest/css/pg-ng-range.min.css">
 ```
 
 Load the pg-ng-range module:
